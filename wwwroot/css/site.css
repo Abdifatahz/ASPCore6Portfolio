@@ -29,6 +29,7 @@ body {
   justify-content: space-around;
   width: 25%;
   background-color: beige;
+  border:1px solid #ddd;
   height:100vh;
   padding: 20px;
 }
@@ -50,8 +51,8 @@ h2{
   justify-content: space-between;
   width: 75%;
   padding: 20px;
-  background-color: silver;
-  height:100vh;
+  background-color: #f5f5f5;
+  min-height:100vh;
 }
 .image{
   width: 200px;
@@ -139,5 +140,12 @@ h2{
 
   .content{
     width: 100%;
+  }
+
+  .skill{
+    width: 32%;
+  }
+  .project {
+    width: 49%;
   }
 }
