@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdifatah/MyWebApp/MyWebApp.csproj",
-      "projectName": "MyWebApp",
-      "projectPath": "/Users/abdifatah/MyWebApp/MyWebApp.csproj",
+      "projectUniqueName": "/Users/abdifatah/Code/ASP/ASPPorfolio/ASPPorfolio.csproj",
+      "projectName": "ASPPorfolio",
+      "projectPath": "/Users/abdifatah/Code/ASP/ASPPorfolio/ASPPorfolio.csproj",
       "packagesPath": "/Users/abdifatah/.nuget/packages/",
-      "outputPath": "/Users/abdifatah/MyWebApp/obj/",
+      "outputPath": "/Users/abdifatah/Code/ASP/ASPPorfolio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdifatah/.nuget/NuGet/NuGet.Config"

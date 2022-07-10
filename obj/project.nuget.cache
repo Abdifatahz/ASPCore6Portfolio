@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spQwuEAd/E7ksOHADfjBC9TYh5bjoIYEOcysMnvV0p/FAIbFDLm9cvuqWkbZsr7pJnovkaK2ZUhME+WiGD/zzQ==",
+  "dgSpecHash": "hUGC0M/7TOqX8+jlMUlqclplxdEn56WkdQs+0S0vVAMYj2lQOG11wRek3eVL/h09NKCC4DoGDVKorIiIeeNqsQ==",
   "success": true,
-  "projectFilePath": "/Users/abdifatah/MyWebApp/MyWebApp.csproj",
+  "projectFilePath": "/Users/abdifatah/Code/ASP/ASPPorfolio/ASPPorfolio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
